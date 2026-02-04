@@ -19,8 +19,8 @@ const WeddingInvitationDisplay = () => {
     type: 'hero',
     title: 'Sarah & Michael',
     subtitle: 'June 15, 2026',
-    backgroundImage: "https://images.unsplash.com/photo-1630269222187-f6db63d395ef",
-    backgroundImageAlt: 'Romantic couple embracing at sunset on beach with golden hour lighting and ocean waves in background'
+    backgroundImage: "/assets/images/homepage.jpg",
+    backgroundImageAlt: 'Couple photo of Yohannes and Yanmei in matching floral shirts'
   },
   {
     id: 2,
